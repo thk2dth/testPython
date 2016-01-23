@@ -1,0 +1,11 @@
+﻿testPython.obj : error LNK2001: unresolved external symbol __imp_Py_BuildValue
+testPython.obj : error LNK2001: unresolved external symbol __imp_Py_Initialize
+testPython.obj : error LNK2001: unresolved external symbol __imp_PyObject_CallFunction
+testPython.obj : error LNK2001: unresolved external symbol __imp_Py_IsInitialized
+testPython.obj : error LNK2001: unresolved external symbol __imp_PyImport_ImportModule
+testPython.obj : error LNK2001: unresolved external symbol __imp_PyRun_SimpleStringFlags
+testPython.obj : error LNK2001: unresolved external symbol __imp__Py_fopen_obj
+testPython.obj : error LNK2001: unresolved external symbol __imp_Py_Finalize
+testPython.obj : error LNK2001: unresolved external symbol __imp_PyRun_SimpleFileExFlags
+testPython.obj : error LNK2001: unresolved external symbol __imp_PyObject_GetAttrString
+C:\Users\thk2d_000\SkyDrive\VS Projects\testPython\x64\Release\testPython.exe : fatal error LNK1120: 10 unresolved externals
